@@ -1,0 +1,11 @@
+name: 'MafiaCore'
+version: '1.0'
+author: 'kimcore'
+description: '마인크래프트 마피아 플러그인'
+main: com.github.kimcore.mafia.MafiaCore
+api-version: "1.15"
+commands:
+  마피아:
+     description: '마피아 기본 명령어'
+     usage: '/마피아'
+     aliases: [mafia]
